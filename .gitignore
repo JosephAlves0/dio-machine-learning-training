@@ -6,8 +6,8 @@ __pycache__/
 *.pyd
 *.pyo
 
-*.png
-*.jpg
+#*.png
+#*.jpg
 
 .ipynb_checkpoints/ # Se você usar Jupyter Notebooks
 .vscode/            # Configurações de workspace do VS Code (opcional, mas comum)
